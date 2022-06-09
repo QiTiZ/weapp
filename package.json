@@ -1,0 +1,21 @@
+{
+  "name": "uniapp_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1",
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/qitiz/weapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
